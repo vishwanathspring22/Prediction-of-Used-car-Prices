@@ -1,8 +1,22 @@
 # Prediction-of-Used-car-Prices
-Implementation
 
-To begin our analysis, we use a dataset from Kaggle that includes various features influencing used car prices. A methodology based on CRISP-DM is developed. There are two approaches to solving this problem, both of which have been tested and explained. Exploration of demand for cars across different states in the U.S., noting the average prices of cars with respect to the considered influencing features. Scaling variables can impact the output and make interpretation difficult, but we finalize a machine-learning model to move forward with deployment. After comparing results, we find that the XG Boost algorithm is the best prediction model for this dataset, followed by the Random Forest Regressor. The model's output has $3098.716 as RMSE and an R-square of 82.08%.
+## Implementation
 
+This dissertation aims to accurately predict used car prices using machine learning techniques. The motivation is the increased demand for used cars due to new car shortages and high prices. A dataset of used car listings from Craigslist is analyzed. After data cleaning and pre-processing, both a baseline model retaining all features and an optimized model with feature engineering are developed. 
+
+The optimized model groups the features 'manufacturer', 'state', and 'paint color' into new attributes representing maintenance costs, taxes, and depreciation. Five regression algorithms - linear regression, support vector regression, decision tree, random forest, and XGBoost - are tested on scaled and unscaled data for both models. The XGBoost model performs best overall, with an R-squared of 0.82 on scaled test data. 
+
+Key factors influencing price are identified as car age, odometer reading, cylinder count, manufacturer, and state. The models provide a good starting point to predict used car prices, though additional features could further improve accuracy. Deployment would require ongoing data collection and monitoring.
+
+Concepts and techniques covered:
+<ul> Data Analytics using CRISP-DM approach <ul>
+<ul> Regression algorithms in machine learning <ul>
+<ul> R programming language for data analytics; tidyverse, dplyr, caTools, ggplot2, skimr, and other various libraries explored <ul>
+<ul> Predictive analytics for price forecasting <ul>
+<ul> Commercial accumen applied with real-time web data <ul>
+<ul> Scaled and unscaled data analysis and comparison attempted <ul>
+
+## Methodlogy
 [![Methodology](https://github.com/vishwanathspring22/Prediction-of-Used-car-Prices/assets/125931190/eb4a6b5f-5f71-4659-b724-d1593c4b9e89)](https://github.com/vishwanathspring22/Prediction-of-Used-car-Prices/blob/main/Methodology.png?raw=true)
 
 For the original dataset, the kaggle link is https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
