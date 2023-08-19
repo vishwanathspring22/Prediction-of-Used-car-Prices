@@ -19,7 +19,7 @@ Key factors influencing price are identified as car age, odometer reading, cylin
 </ul> 
 
 ## Methodology
-![Methodology](https://github.com/vishwanathspring22/Prediction-of-Used-car-Prices/assets/125931190/eb4a6b5f-5f71-4659-b724-d1593c4b9e89){:width="400px"}
+![Methodology](https://github.com/vishwanathspring22/Prediction-of-Used-car-Prices/assets/125931190/eb4a6b5f-5f71-4659-b724-d1593c4b9e89)
 
 </body>
 </html>
