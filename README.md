@@ -8,16 +8,6 @@ The optimized model groups the features 'manufacturer', 'state', and 'paint colo
 
 Key factors influencing price are identified as car age, odometer reading, cylinder count, manufacturer, and state. The models provide a good starting point to predict used car prices, though additional features could further improve accuracy. Deployment would require ongoing data collection and monitoring.
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  ul {
-    padding-left: 20px; /* Add an appropriate padding for the unordered lists */
-  }
-</style>
-</head>
-<body>
 
 <ul> 
   <li>Data Analytics using CRISP-DM approach</li>
@@ -29,7 +19,7 @@ Key factors influencing price are identified as car age, odometer reading, cylin
 </ul> 
 
 ## Methodology
-[![Methodology](https://github.com/vishwanathspring22/Prediction-of-Used-car-Prices/assets/125931190/eb4a6b5f-5f71-4659-b724-d1593c4b9e89)](https://github.com/vishwanathspring22/Prediction-of-Used-car-Prices/blob/main/Methodology.png?raw=true)
+![Methodology](https://github.com/vishwanathspring22/Prediction-of-Used-car-Prices/assets/125931190/eb4a6b5f-5f71-4659-b724-d1593c4b9e89){:width="400px"}
 
 </body>
 </html>
