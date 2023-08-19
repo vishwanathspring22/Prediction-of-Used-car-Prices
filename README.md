@@ -9,12 +9,14 @@ The optimized model groups the features 'manufacturer', 'state', and 'paint colo
 Key factors influencing price are identified as car age, odometer reading, cylinder count, manufacturer, and state. The models provide a good starting point to predict used car prices, though additional features could further improve accuracy. Deployment would require ongoing data collection and monitoring.
 
 Concepts and techniques covered:
-<ul> Data Analytics using CRISP-DM approach 
-<ul> Regression algorithms in machine learning 
-<ul> R programming language for data analytics; tidyverse, dplyr, caTools, ggplot2, skimr, and other various libraries explored <ul>
-<ul> Predictive analytics for price forecasting 
-<ul> Commercial accumen applied with real-time web data 
-<ul> Scaled and unscaled data analysis and comparison attempted 
+<ul> 
+<li> Data Analytics using CRISP-DM approach </li>
+<li> Regression algorithms in machine learning </li>
+<li> R programming language for data analytics; tidyverse, dplyr, caTools, ggplot2, skimr, and other various libraries explored </li>
+<li> Predictive analytics for price forecasting </li>
+<li> Commercial accumen applied with real-time web data </li>
+<li> Scaled and unscaled data analysis and comparison attempted </li>
+<ul/>
   
 ## Methodlogy
 [![Methodology](https://github.com/vishwanathspring22/Prediction-of-Used-car-Prices/assets/125931190/eb4a6b5f-5f71-4659-b724-d1593c4b9e89)](https://github.com/vishwanathspring22/Prediction-of-Used-car-Prices/blob/main/Methodology.png?raw=true)
