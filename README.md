@@ -19,10 +19,11 @@ Concepts and techniques covered:
 <li> Commercial accumen applied with real-time web data </li>
 <li> Scaled and unscaled data analysis and comparison attempted </li>
 <ul> 
+</HTML>
+<body>
 
 ## Methodology
 [![Methodology](https://github.com/vishwanathspring22/Prediction-of-Used-car-Prices/assets/125931190/eb4a6b5f-5f71-4659-b724-d1593c4b9e89)](https://github.com/vishwanathspring22/Prediction-of-Used-car-Prices/blob/main/Methodology.png?raw=true)
 
 For the original dataset, the kaggle link is https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
-</HTML>
-<body>
+
