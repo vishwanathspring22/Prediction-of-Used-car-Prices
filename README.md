@@ -18,7 +18,7 @@ Concepts and techniques covered:
 <li> Predictive analytics for price forecasting </li>
 <li> Commercial accumen applied with real-time web data </li>
 <li> Scaled and unscaled data analysis and comparison attempted </li>
-<ul/> 
+<ul> 
 
 ## Methodology
 [![Methodology](https://github.com/vishwanathspring22/Prediction-of-Used-car-Prices/assets/125931190/eb4a6b5f-5f71-4659-b724-d1593c4b9e89)](https://github.com/vishwanathspring22/Prediction-of-Used-car-Prices/blob/main/Methodology.png?raw=true)
