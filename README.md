@@ -8,7 +8,7 @@ The optimized model groups the features 'manufacturer', 'state', and 'paint colo
 
 Key factors influencing price are identified as car age, odometer reading, cylinder count, manufacturer, and state. The models provide a good starting point to predict used car prices, though additional features could further improve accuracy. Deployment would require ongoing data collection and monitoring.
 
-
+Concepts covered:
 <ul> 
   <li>Data Analytics using CRISP-DM approach</li>
   <li>Regression algorithms in machine learning</li>
