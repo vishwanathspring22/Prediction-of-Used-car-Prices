@@ -16,11 +16,15 @@ Concepts and techniques covered:
 <li> Regression algorithms in machine learning </li>
 <li> R programming language for data analytics; tidyverse, dplyr, caTools, ggplot2, skimr, and other various libraries explored </li>
 <li> Predictive analytics for price forecasting </li>
-<li> Commercial accumen applied with real-time web data </li>
+<li> Commercial acumen applied with real-time web data </li>
 <li> Scaled and unscaled data analysis and comparison attempted </li>
-<ul> 
+</ul> 
 </HTML>
 <body>
+
+## Methodology
+[![Methodology](https://github.com/vishwanathspring22/Prediction-of-Used-car-Prices/assets/125931190/eb4a6b5f-5f71-4659-b724-d1593c4b9e89)](https://github.com/vishwanathspring22/Prediction-of-Used-car-Prices/blob/main/Methodology.png?raw=true)
+
 
 ## Methodology
 [![Methodology](https://github.com/vishwanathspring22/Prediction-of-Used-car-Prices/assets/125931190/eb4a6b5f-5f71-4659-b724-d1593c4b9e89)](https://github.com/vishwanathspring22/Prediction-of-Used-car-Prices/blob/main/Methodology.png?raw=true)
